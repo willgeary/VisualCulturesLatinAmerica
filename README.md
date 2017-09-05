@@ -2,19 +2,9 @@
 
 PORT 3327
 
-Latin American and Iberian Cultures Columbia University
+Professor Ana Paulina Lee (ana.lee@columbia.edu)
 
-Casa Hispánica
-
-612 W116th St. between Broadway and Riverside Dr.
-
-Professor Ana Paulina Lee
-
-ana.lee@columbia.edu
-
-Office Hours: Tuesday 12-1pm, and by appointment Casa Hispánica, 306
-
-Undergraduate Seminar
+Teaching assitant: Will Geary (wcg2111@columbia.edu)
 
 # Workshop schedule
 
