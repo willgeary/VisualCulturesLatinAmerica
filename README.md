@@ -4,7 +4,7 @@ PORT 3327
 
 Professor Ana Paulina Lee (ana.lee@columbia.edu)
 
-Teaching assitant: Will Geary (wcg2111@columbia.edu)
+Graduate Teaching Assistant: Will Geary (wcg2111@columbia.edu)
 
 # Workshop schedule
 
