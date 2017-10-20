@@ -19,3 +19,6 @@ Graduate Teaching Assistant: Will Geary (wcg2111@columbia.edu)
 - Workshop 5 (10/10/17): [Visual Representations of Time](https://docs.google.com/a/columbia.edu/presentation/d/13hccPeWn36Bvuciw-ZWg4oE5vZWPcIkme7zvSR0-FeQ/edit?usp=sharing)
 
 - Workshop 6 (10/17/17): [Getting Started with Python](https://docs.google.com/a/columbia.edu/presentation/d/1AYydw8XOp8e-qgw9R1Fuwlk68F7Gzj_Lg08IuAzxJ-I/edit?usp=sharing)
+
+- Workshop 7 (10/24/17): [Scraping Images from Google Street View](https://github.com/willgeary/VisualCulturesLatinAmerica/blob/master/notebooks/Scraping%20Images%20from%20Google%20Street%20View.ipynb)
+
