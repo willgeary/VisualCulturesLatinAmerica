@@ -22,3 +22,5 @@ Graduate Teaching Assistant: Will Geary (wcg2111@columbia.edu)
 
 - Workshop 7 (10/24/17): [Scraping Images from Google Street View](https://github.com/willgeary/VisualCulturesLatinAmerica/blob/master/notebooks/Scraping%20Images%20from%20Google%20Street%20View.ipynb)
 
+- Workshop 8 (11/14/17): [Introduction to Processing](https://docs.google.com/a/columbia.edu/presentation/d/e/2PACX-1vQZmseP2ucNydEiW2XwiFuPjvOOPwshrNP6OJXP2KrDRAsiL-adlXLNSmlV4xSbzotytoEHp_XMCNas/pub?start=false&loop=false&delayms=3000)
+
